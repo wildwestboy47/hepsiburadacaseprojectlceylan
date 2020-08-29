@@ -1,0 +1,13 @@
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.exe
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.deps.json
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.runtimeconfig.json
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.runtimeconfig.dev.json
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.dll
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\bin\Debug\netcoreapp3.1\HepsiBuradaCaseProject.pdb
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.csprojAssemblyReference.cache
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.AssemblyInfoInputs.cache
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.AssemblyInfo.cs
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.csproj.CoreCompileInputs.cache
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.dll
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.pdb
+C:\Users\lceylan\source\repos\HepsiBuradaCaseProject\HepsiBuradaCaseProject\obj\Debug\netcoreapp3.1\HepsiBuradaCaseProject.genruntimeconfig.cache
